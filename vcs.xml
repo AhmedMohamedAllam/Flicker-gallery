@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/koral--/android-gif-drawable.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AhmedMohamedAllam/NewMessage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Faculty\DropBox\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\Allam\Desktop\Github new message" />
   </component>
 </application>
