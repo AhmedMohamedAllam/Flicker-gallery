@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/AhmedMohamedAllam/NewMessage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MuesuemGraduationProject/Muesuem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Allam\Desktop\Github new message" />
+    <option name="cloneParentDir" value="D:\Faculty\DropBox\AndroidStudioProjects" />
   </component>
 </application>
